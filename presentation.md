@@ -12,10 +12,8 @@ paginate: true
 
 ---
 
-<!--
-_backgroundImage: "url('https://picsum.photos/1280/720?random&tech')"
-_color: white
--->
+<!-- _backgroundImage: "url('https://picsum.photos/1280/720?random&tech')" -->
+<!-- _color: white -->
 
 ## Our Vision
 
